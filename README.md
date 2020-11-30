@@ -4,7 +4,7 @@ This repository contain all the 3D model of UV curing apparatus designed for 3Dr
 
 [![DOI]()]()
 ![](https://img.shields.io/badge/CAD-fusion360-orange?logo=autodesk)
-[![GitHub license](https://img.shields.io/github/license/piuLAB-official/3Drag_UV_curing_addon?color=green)](https://github.com/piuLAB-official/3Drag_UV_curing_addon/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/piuLAB-official/3Drag_UV_curing_addon)](https://github.com/piuLAB-official/3Drag_UV_curing_addon/blob/main/LICENSE)
 ![](https://img.shields.io/github/v/release/piuLAB-official/3Drag_UV_curing_addon)
 
 ![](https://github.com/piuLAB-official/3Drag_UV_curing_addon/blob/main/cover.png)

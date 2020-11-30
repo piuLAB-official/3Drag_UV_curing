@@ -1,5 +1,4 @@
-# UV_curing_addon
-Here you will find all the UV curing apparatus developed for 3D printers at +LAB
+# UV curing addon
 This repository contain all the 3D model of UV curing apparatus designed for 3Drag 3D printers @ [+LAB](www.piulab.it).
 
 [![DOI]()]()

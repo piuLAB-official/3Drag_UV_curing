@@ -1,7 +1,7 @@
 # UV curing addon
 This repository contain all the 3D model of UV curing apparatus designed for 3Drag 3D printers @ [+LAB](www.piulab.it).
 
-[![DOI]()]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4298907.svg)](https://doi.org/10.5281/zenodo.4298907)
 ![](https://img.shields.io/badge/CAD-fusion360-orange?logo=autodesk)
 [![GitHub license](https://img.shields.io/github/license/piuLAB-official/3Drag_UV_curing?color=green)](https://github.com/piuLAB-official/3Drag_UV_curing/blob/main/LICENSE)
 ![](https://img.shields.io/github/v/release/piuLAB-official/3Drag_UV_curing)
